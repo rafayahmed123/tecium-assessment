@@ -1,0 +1,60 @@
+{
+  "content": [
+    {
+      "_badge": {
+        "name": "Tracked Duration",
+        "value": "4,641.09",
+        "unit": "h"
+      }
+    },
+    {
+      "_badge": {
+        "name": "Tracked Distance",
+        "value": "39,942.38",
+        "unit": "km"
+      }
+    },
+    {
+      "_badge": {
+        "name": "Energy Used",
+        "value": "38,542.08",
+        "unit": "kWh"
+      }
+    },
+    {
+      "_badge": {
+        "name": "Energy Charged",
+        "value": "43,146.77",
+        "unit": "kWh"
+      }
+    },
+    {
+      "_badge": {
+        "name": "Charge Cycles",
+        "value": "385",
+        "unit": "Cycles"
+      }
+    },
+    {
+      "_badge": {
+        "name": "GHG Emissions",
+        "value": "25,437.81",
+        "unit": "kg of CO2"
+      }
+    },
+    {
+      "_badge": {
+        "name": "Cost of Energy Used",
+        "value": "$3,710.61",
+        "unit": ""
+      }
+    },
+    {
+      "_badge": {
+        "name": "Economy",
+        "value": "0.96",
+        "unit": "kWh/km"
+      }
+    }
+  ]
+}
